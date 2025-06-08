@@ -1,12 +1,42 @@
-# React + Vite
+# Fake News Detector
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A web application that detects whether a given news headline or article is **fake** or **real** using machine learning.  
+Built with a **React** frontend and a **Flask** backend.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Demo
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+
+- Input news headlines or full articles
+- AI-powered fake news detection
+- Clean, responsive UI built with React and styled with CSS
+- Flask backend serving the prediction API
+- Cybersecurity-themed design with a sleek background
+
+---
+
+## Tech Stack
+
+- **Frontend:** React, CSS  
+- **Backend:** Flask, Python  
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js and npm installed  
+- Python 3.x installed  
+- Flask and required Python packages (`pip install -r requirements.txt`)
+
+### Running Frontend
+
+```bash
+cd fake-news-detector-frontend
+npm install
+npm run dev
