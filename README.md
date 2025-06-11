@@ -8,7 +8,9 @@ Built with a **React** frontend and a **Flask** backend.
 ## Demo
 ![Demo Image](src/assets/Demo-image.png)
 
+
 This project uses machine learning model to classify news articles as real or fake based on their textual content. The system helps users identify misinformation by analyzing patterns and linguistic features commonly found in fake news.
+
 ---
 
 ## Features
