@@ -6,8 +6,7 @@ Built with a **React** frontend and a **Flask** backend.
 ---
 
 ## Demo
-![Demo Screenshot]  (./src/assets/Demo-image.png)
-
+![Demo Screenshot](src/assets/Demo-image.png)
 
 ---
 
